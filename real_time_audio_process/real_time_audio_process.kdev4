@@ -1,0 +1,4 @@
+[Project]
+Name=real_time_audio_process
+Manager=KDevCMakeManager
+VersionControl=
